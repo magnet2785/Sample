@@ -13,6 +13,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.6
+  sqflite: ^2.3.2 # データベース
+  provider: ^6.1.2 # 状態管理
 
 
 dev_dependencies:
